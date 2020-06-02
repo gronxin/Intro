@@ -10,7 +10,7 @@ Welcome to my homepage！
 
 目前研究方向：
 
-1、敏捷（scrum、kanban、lean） 
+1、敏捷（Scrum、KANBAN、Lean） 
 
 2、DevOps理论、方法、实践和工具。
 
