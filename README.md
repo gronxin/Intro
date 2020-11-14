@@ -2,6 +2,8 @@ Welcome to my homepage！
 
 持续更新云原生相关技术学习内容，打造技术交流平台。
 
+技术公众号：cloudnativeclub
+
 代号：荣信
 
 学历：硕士
